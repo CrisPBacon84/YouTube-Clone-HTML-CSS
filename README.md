@@ -17,8 +17,6 @@ This is a **YouTube Clone** built using **HTML** and **CSS**. The project aims t
 1. Clone or download the repository  
 2. Open `index.html` in any modern web browser  
 
-## 📷 Screenshots  
-*(Add screenshots of your clone here to showcase the UI)*
 
 ## 📄 License  
-This project is open-source and available under the [MIT License](LICENSE) (optional).
+This project is open-source 
